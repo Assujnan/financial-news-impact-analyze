@@ -1,0 +1,30 @@
+# Bytecode and compiled files
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+*.env
+.env.*
+fin_news_env/
+.fin_news_env/
+
+# Virtual environments
+venv/
+env/
+
+# System and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and outputs
+*.log
+*.out
+*.bak
+
+# Packaging
+*.egg-info/
+dist/
+build/
