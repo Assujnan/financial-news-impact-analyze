@@ -8,6 +8,7 @@ __pycache__/
 .env.*
 fin_news_env/
 .fin_news_env/
+test_env/
 
 # Virtual environments
 venv/
